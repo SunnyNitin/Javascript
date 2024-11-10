@@ -1,1 +1,1 @@
-This repository is for practicing javascript basics for learning purpous.
+This repository is for practicing javascript basics for learning purpose.
